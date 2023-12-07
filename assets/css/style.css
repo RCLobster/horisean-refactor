@@ -16,7 +16,8 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+/* removed header from below element selector */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -34,11 +35,14 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+/* removed below element selector */
+/* header div ul {
     list-style-type: none;
-}
+} */
 
-header div ul li {
+/* condensed below element selector to remove unnecessary elements */
+header li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
