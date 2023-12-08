@@ -22,6 +22,11 @@ h1 {
     font-size: 48px;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* removed the class below */
 /* header h1 .seo {
     color: #d9dcd6;
@@ -120,7 +125,8 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/* removed below elements and condensed into single h2 element selector */
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -133,7 +139,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .benefits {
     margin-right: 20px;
