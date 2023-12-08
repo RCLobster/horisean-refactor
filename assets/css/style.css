@@ -16,7 +16,8 @@ header {
     color: #ffffff;
 }
 
-header div {
+/* changed header div into header nav */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
