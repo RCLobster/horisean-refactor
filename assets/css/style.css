@@ -68,6 +68,7 @@ aside {
 a {
     color: #ffffff;
     text-decoration: none;
+    margin-right: 20px;
 }
 
 p {
@@ -135,4 +136,16 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+#search-engine-optimization {
+    display:inline-block;
+}
+
+#online-reputation-management {
+    display:inline-block;
+}
+
+#social-media-marketing {
+    display:inline-block;
 }
